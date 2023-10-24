@@ -12,6 +12,6 @@ function taro66(){alert(who66='太郎');}
 function hanako66(){alert(who66='花子)';}
 
 function sayhello67(){alert(who67+'!');}
-function taro65(){alert(who67='太郎が来た');}
-function hanako65(){alert(who65='花子が来た');}
+function taro67(){alert(who67='太郎が来た');}
+function hanako67(){alert(who67='花子が来た');}
 
