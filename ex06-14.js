@@ -1,2 +1,2 @@
-function page(){document.getElementById('panda').src ='./image/papanda.png';}
-function page2(){document.getElementById('panda').src ='./image/panda.png';}
+function page(){document.getElementById('panda').src ='./image/papanda.jpg';}
+function page2(){document.getElementById('panda').src ='./image/panda.jpg';}
