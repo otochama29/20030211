@@ -1,1 +1,2 @@
-function BMI(){var takasa=Number(document.getElementById('takasa').value);var omosa=Number(document.getElementById('omosa').value);var BMI=omosa/(takasa * takasa); //BMIの計算alert('BMI値は' + BMI + 'です。');}
+function BMI() {var cm = Number(document.getElementById('cm').value) / 100; var kg = Number(document.getElementById('kg').value);var bmi = kg / (cm * cm);alert('あなたのBMIは ' + bmi + ' です。');
+}
